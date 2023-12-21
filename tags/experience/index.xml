@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experience on Thomas&#39; net</title>
+    <link>www.thomasnet.online/tags/experience/</link>
+    <description>Recent content in Experience on Thomas&#39; net</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Nov 2023 12:00:00 +0800</lastBuildDate><atom:link href="www.thomasnet.online/tags/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Research Experience</title>
+      <link>www.thomasnet.online/blogs/research/</link>
+      <pubDate>Wed, 01 Nov 2023 12:00:00 +0800</pubDate>
+      
+      <guid>www.thomasnet.online/blogs/research/</guid>
+      <description>My research journey started in May 2022. I joined the Song Lab at Wake Forest University School of Medicine as a high school intern and was fortunate to collaborate with Professor Song on two research projects. Excited by the application of neural networks in medicine and inspired by Prof. Song’s previous work, I initiated two studies detailed below. I spent, on average, an hour every day during the school year and 8 hours a day during summer on research.</description>
+    </item>
+    
+  </channel>
+</rss>
