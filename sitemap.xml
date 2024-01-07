@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tongtongtot.github.io/blogs/</loc>
-    <lastmod>2023-12-04T12:00:00+08:00</lastmod>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://tongtongtot.github.io/tags/introduction/</loc>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://tongtongtot.github.io/blogs/introduction/</loc>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://tongtongtot.github.io/tags/</loc>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://tongtongtot.github.io/tags/thomas/</loc>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>https://tongtongtot.github.io/</loc>
+    <lastmod>2024-01-01T00:00:00+08:00</lastmod>
   </url><url>
     <loc>https://tongtongtot.github.io/tags/deep-learning/</loc>
     <lastmod>2023-12-04T12:00:00+08:00</lastmod>
@@ -18,12 +33,6 @@
     <lastmod>2023-12-04T12:00:00+08:00</lastmod>
   </url><url>
     <loc>https://tongtongtot.github.io/tags/style-transfer/</loc>
-    <lastmod>2023-12-04T12:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://tongtongtot.github.io/tags/</loc>
-    <lastmod>2023-12-04T12:00:00+08:00</lastmod>
-  </url><url>
-    <loc>https://tongtongtot.github.io/</loc>
     <lastmod>2023-12-04T12:00:00+08:00</lastmod>
   </url><url>
     <loc>https://tongtongtot.github.io/tags/vae/</loc>
